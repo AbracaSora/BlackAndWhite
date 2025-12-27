@@ -4,7 +4,7 @@ public class PlayerInteract : MonoBehaviour
 {
     private Interactable currentInteractable;
 
-    void Update()
+    private void Update()
     {
         if (currentInteractable != null && Input.GetKeyDown(KeyCode.E))
         {

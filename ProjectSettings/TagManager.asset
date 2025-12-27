@@ -47,5 +47,8 @@ TagManager:
   - name: Player
     uniqueID: 2758136193
     locked: 0
+  - name: Furniture
+    uniqueID: 3884858625
+    locked: 0
   m_RenderingLayers:
   - Default
