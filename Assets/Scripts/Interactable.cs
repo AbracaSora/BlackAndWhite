@@ -11,8 +11,7 @@ public abstract class Interactable : MonoBehaviour
     /// <summary>
     /// 对外唯一入口（Player 只能调用这个）
     /// </summary>
-    public void Interact()
-    {
+    public void Interact() {
         if (!CanInteract())
             return;
 

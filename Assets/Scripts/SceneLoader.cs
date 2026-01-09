@@ -28,6 +28,8 @@ public class SceneLoader : MonoBehaviour
 
     private IEnumerator LoadRoutine(string sceneName)
     {
+        SceneFade sceneFade = FindFirstObjectByType<SceneFade>();
+        sceneFade.TriggerFadeOut();
         // 这里可以接 UI 淡出
         yield return new WaitForSeconds(0.3f);
 
