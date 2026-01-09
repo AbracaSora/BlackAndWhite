@@ -14,7 +14,7 @@ public class UIManager : MonoBehaviour
         Instance = this;
     }
 
-    public void ShowDialogue(string text)
+    public void ShowDialogue(string[] text)
     {
         dialogue.Show(text);
     }

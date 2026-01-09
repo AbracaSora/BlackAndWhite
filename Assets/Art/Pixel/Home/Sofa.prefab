@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 7361660292052943964}
   - component: {fileID: 5450747913355146348}
   - component: {fileID: 2865832033110016844}
-  - component: {fileID: 3724288608478042508}
   m_Layer: 0
   m_Name: Sofa
   m_TagString: Untagged
@@ -141,18 +140,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 2.696993, y: 1.0440124}
   m_EdgeRadius: 0
---- !u!114 &3724288608478042508
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1792272427741745986}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1fe4bc6f39165ce4ca50a20378a1f919, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::YSort
 --- !u!1 &2480963532745237918
 GameObject:
   m_ObjectHideFlags: 0
