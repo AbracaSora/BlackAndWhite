@@ -1,4 +1,5 @@
 using System.Collections;
+using Art.Characters.Gen;
 using UnityEngine;
 using TMPro;
 
@@ -11,16 +12,21 @@ public class DialogueController : MonoBehaviour
     private int currentLineIndex = 0;  // 当前对话句子索引
     private Coroutine typingCoroutine;
     private bool isTyping;
+    private PlayerMove _playerMove;
+    private PlayerInteract _playerInteract;
 
     void Awake()
     {
         dialogueText.text = "";
         gameObject.SetActive(false);
+        _playerMove = FindFirstObjectByType<PlayerMove>();
+        _playerInteract = FindFirstObjectByType<PlayerInteract>();
     }
 
     void Update()
     {
         if (!gameObject.activeSelf) return;
+        
 
         if (Input.GetKeyDown(KeyCode.Z))
         {
@@ -57,6 +63,16 @@ public class DialogueController : MonoBehaviour
         currentLineIndex = 0;
         gameObject.SetActive(true);
         dialogueText.text = "";
+        
+        if (_playerMove != null)
+        {
+            _playerMove.enabled = false; // 禁止玩家移动
+        }
+        
+        if (_playerInteract != null)
+        {
+            _playerInteract.enabled = false; // 禁止玩家交互
+        }
 
         // 开始显示第一句对话
         typingCoroutine = StartCoroutine(TypeText(dialogueLines[currentLineIndex]));
@@ -82,5 +98,15 @@ public class DialogueController : MonoBehaviour
     {
         dialogueText.text = "";
         gameObject.SetActive(false);
+        
+        if (_playerMove != null)
+        {
+            _playerMove.enabled = true; // 允许玩家移动
+        }
+
+        if (_playerInteract != null)
+        {
+            _playerInteract.enabled = true; // 允许玩家交互
+        }
     }
 }

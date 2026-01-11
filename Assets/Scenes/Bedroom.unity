@@ -5085,18 +5085,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 6333132055400714477, guid: dbaec1bb4f9336943b22b65a3d7ca1b2, type: 3}
   m_PrefabInstance: {fileID: 5329204164479224071}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1941082219
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1941082212}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 111efd8e51cda7048ad66362b52cfb61, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerInteract
 --- !u!114 &1941082226
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5392,6 +5380,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5202067093451183344, guid: 3e166233c58b53f499784481ebaa174c, type: 3}
       insertIndex: -1
       addedObject: {fileID: 5776859328519124754}
+    - targetCorrespondingSourceObject: {fileID: 5202067093451183344, guid: 3e166233c58b53f499784481ebaa174c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5776859328519124755}
   m_SourcePrefab: {fileID: 100100000, guid: 3e166233c58b53f499784481ebaa174c, type: 3}
 --- !u!1 &4622101319881285589 stripped
 GameObject:
@@ -5468,9 +5459,6 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 6333132055400714477, guid: dbaec1bb4f9336943b22b65a3d7ca1b2, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1941082219}
-    - targetCorrespondingSourceObject: {fileID: 6333132055400714477, guid: dbaec1bb4f9336943b22b65a3d7ca1b2, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 1941082226}
   m_SourcePrefab: {fileID: 100100000, guid: dbaec1bb4f9336943b22b65a3d7ca1b2, type: 3}
 --- !u!4 &5776859328519124753 stripped
@@ -5492,6 +5480,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DoorTrigger
   targetScene: LivingRoom
   targetSpawnPoint: FromBedroom
+--- !u!114 &5776859328519124755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4622101319881285589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87b5b70e401fe654b8ccbdfd40da2c6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BaseDoor
+  canInteract: 1
+  interactOnce: 0
 --- !u!1001 &7316574231793668519
 PrefabInstance:
   m_ObjectHideFlags: 0

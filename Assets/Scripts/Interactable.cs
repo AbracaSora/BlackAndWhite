@@ -7,7 +7,9 @@ public abstract class Interactable : MonoBehaviour
     [SerializeField] protected bool interactOnce = false;
 
     private bool hasInteracted = false;
-
+    
+    public int priority = 0;
+    
     /// <summary>
     /// 对外唯一入口（Player 只能调用这个）
     /// </summary>

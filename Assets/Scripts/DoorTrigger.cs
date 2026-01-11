@@ -19,9 +19,9 @@ public class DoorTrigger : MonoBehaviour
             playerInside = false;
     }
 
-    void Update()
+    public void EnterDoor()
     {
-        if (playerInside && Input.GetKeyDown(KeyCode.E))
+        if (playerInside)
         {
             SceneLoader.Instance.LoadScene(targetScene, targetSpawnPoint);
         }
