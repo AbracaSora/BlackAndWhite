@@ -143,8 +143,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u6D4B\u8BD5\u6587\u672C"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 2944b13a58034764490a4d3795554e2f, type: 2}
-  m_sharedMaterial: {fileID: 4425765366132164379, guid: 2944b13a58034764490a4d3795554e2f, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 385f0bc9463a74a4186c3a7fef1dcfe6, type: 2}
+  m_sharedMaterial: {fileID: 6520575439779625290, guid: 385f0bc9463a74a4186c3a7fef1dcfe6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_fontSize: 120
   m_fontSizeBase: 120
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0

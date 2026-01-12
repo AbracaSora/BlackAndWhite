@@ -1,5 +1,4 @@
 using System.Collections;
-using Art.Characters.Gen;
 using UnityEngine;
 using TMPro;
 
@@ -66,7 +65,7 @@ public class DialogueController : MonoBehaviour
         
         if (_playerMove != null)
         {
-            _playerMove.enabled = false; // 禁止玩家移动
+            _playerMove.ForbidMovement(); // 禁止玩家移动
         }
         
         if (_playerInteract != null)
@@ -101,7 +100,7 @@ public class DialogueController : MonoBehaviour
         
         if (_playerMove != null)
         {
-            _playerMove.enabled = true; // 允许玩家移动
+            _playerMove.AllowMovement(); // 允许玩家移动
         }
 
         if (_playerInteract != null)
