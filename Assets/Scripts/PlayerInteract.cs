@@ -6,7 +6,7 @@ using System.Linq;
 public class PlayerInteract : MonoBehaviour
 {
     private Interactable currentInteractable;
-    private List<Interactable> interactables = new List<Interactable>();
+    private HashSet<Interactable> interactables = new();
     
     private void Update()
     {
@@ -34,7 +34,7 @@ public class PlayerInteract : MonoBehaviour
             .ThenByDescending(FaceAt)  // 按面向角度排序，面向的排在前面
             .ThenBy(obj => Vector3.Distance(transform.position, obj.transform.position))  // 如果角度相同，则按距离排序
             .FirstOrDefault();  // 获取优先级最高的物体
-        if (interactable == null || FaceAt(interactable) < 0.5f)
+        if (interactable == null || FaceAt(interactable) < 0.1f)
         {
             return null;
         }
@@ -53,7 +53,7 @@ public class PlayerInteract : MonoBehaviour
     private void OnTriggerExit2D(Collider2D other)
     {
         Interactable interactable = other.GetComponent<Interactable>();
-        if (interactable != null && interactable == currentInteractable)
+        if (interactable != null)
         {
             interactables.Remove(interactable);
         }

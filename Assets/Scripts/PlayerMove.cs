@@ -96,6 +96,10 @@ public class PlayerMove : MonoBehaviour
     }
     private void FixedUpdate()
     {
+        if (_stop)
+        {
+            return;
+        }
         _rb.MovePosition(_rb.position + _movement * (speed * Time.fixedDeltaTime));
     }
 }
