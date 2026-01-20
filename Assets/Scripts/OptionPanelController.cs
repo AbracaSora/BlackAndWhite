@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 
 public class OptionPanelController : MonoBehaviour
@@ -49,7 +50,6 @@ public class OptionPanelController : MonoBehaviour
      * ======================= */
 
     /// <summary>
-    /// 构建选项并激活选项框
     /// </summary>
     public void ShowOptions(
         List<string> options,
@@ -61,9 +61,18 @@ public class OptionPanelController : MonoBehaviour
             Debug.LogError("OptionPanelController: 引用未绑定");
             return;
         }
-
+        gameObject.SetActive(true);
+        StartCoroutine(ShowOptionsNextFrame(options, callback));
+    }
+    
+    public IEnumerator ShowOptionsNextFrame(
+        List<string> options,
+        Action<int, string> callback
+    )
+    {
         ClearOptions();
-
+        yield return null;
+        Debug.Log("ChildCount After Clean: " + container.childCount);
         onOptionSelected = callback;
         isActive = true;
         currentIndex = 0;
@@ -80,7 +89,6 @@ public class OptionPanelController : MonoBehaviour
 
         UpdateContainerHeight();
         UpdateVisual();
-        gameObject.SetActive(true);
     }
 
     /// <summary>
@@ -131,17 +139,19 @@ public class OptionPanelController : MonoBehaviour
 
     void ClearOptions()
     {
-        for (int i = container.childCount - 1; i >= 0; i--)
+        foreach (Transform child in container)
         {
-            Destroy(container.GetChild(i).gameObject);
+            Destroy(child.gameObject);
         }
         buttons.Clear();
     }
 
+
     void UpdateContainerHeight()
     {
         float height = layoutGroup.padding.top + layoutGroup.padding.bottom;
-
+        
+        Debug.Log("ChildCount: " + container.childCount);
         for (int i = 0; i < container.childCount; i++)
         {
             RectTransform child = container.GetChild(i) as RectTransform;
@@ -152,10 +162,14 @@ public class OptionPanelController : MonoBehaviour
                 : child.sizeDelta.y;
 
             height += h;
+            
+            Debug.Log("Name: " + child.gameObject.name + ", Height: " + h);
 
             if (i < container.childCount - 1)
                 height += layoutGroup.spacing;
         }
+        
+        Debug.Log("OptionPanelController: 更新容器高度为 " + height);
 
         container.SetSizeWithCurrentAnchors(
             RectTransform.Axis.Vertical,
