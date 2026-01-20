@@ -4,10 +4,28 @@ public class Shelf : Interactable
 {
     protected override void OnInteract()
     {
-        UIManager.Instance.ShowDialogue(new string[]
+        int playthroughCount = PlayerPrefs.GetInt("Playthrough", 1);
+        if (playthroughCount == 1)
         {
-            "你打开了柜子，发现里面空无一物。",
-            "也许可以去别的地方看看。"
-        });
+            if (interactCount == 0)
+            {
+                UIManager.Instance.ShowDialogue(new string[]
+                {
+                    "你走到衣柜前。",
+                    "里面挂满了你儿时的衣服。",
+                    "你已经穿不下了。",
+                });
+                interactCount++;
+            }
+            else
+            {
+                UIManager.Instance.ShowDialogue(new string[]
+                {
+                    "你再次走到衣柜前。",
+                    "这些衣服依然静静地挂在那里，",
+                    "仿佛在诉说着过去的故事。",
+                });
+            }
+        }
     }
 }

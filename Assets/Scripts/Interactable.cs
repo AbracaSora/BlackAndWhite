@@ -5,7 +5,8 @@ public abstract class Interactable : MonoBehaviour
     [Header("Interactable Base")]
     [SerializeField] protected bool canInteract = true;
     [SerializeField] protected bool interactOnce = false;
-
+    [SerializeField] protected int interactCount = 0;
+ 
     private bool hasInteracted = false;
     
     public int priority = 0;

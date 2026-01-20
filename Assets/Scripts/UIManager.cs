@@ -18,5 +18,18 @@ public class UIManager : MonoBehaviour
     {
         dialogue.Show(text);
     }
+    
+    public void ShowDialogueWithOptions(
+        string[] text,
+        string[] options,
+        Action<int> onOptionSelected
+    )
+    {
+        dialogue.ShowWithOptions(
+            text,
+            new System.Collections.Generic.List<string>(options),
+            onOptionSelected
+        );
+    }
 }
 
