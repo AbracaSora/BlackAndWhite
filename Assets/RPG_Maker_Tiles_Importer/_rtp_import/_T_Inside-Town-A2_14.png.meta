@@ -1,0 +1,1369 @@
+fileFormatVersion: 2
+guid: a7f4736fda139074baf1c6dfa15be6fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7546715356413809635
+    second: _T_Inside-Town-A2_14_0
+  - first:
+      213: 3186262264000377951
+    second: _T_Inside-Town-A2_14_00
+  - first:
+      213: 7438801079093919540
+    second: _T_Inside-Town-A2_14_01
+  - first:
+      213: 6274612938934507545
+    second: _T_Inside-Town-A2_14_02
+  - first:
+      213: 32477772803252719
+    second: _T_Inside-Town-A2_14_03
+  - first:
+      213: 212128926651362034
+    second: _T_Inside-Town-A2_14_04
+  - first:
+      213: -1316914602583408264
+    second: _T_Inside-Town-A2_14_05
+  - first:
+      213: 4515286680022005975
+    second: _T_Inside-Town-A2_14_06
+  - first:
+      213: -4510577341425144270
+    second: _T_Inside-Town-A2_14_07
+  - first:
+      213: -783998618788180714
+    second: _T_Inside-Town-A2_14_08
+  - first:
+      213: 2920536515143536252
+    second: _T_Inside-Town-A2_14_09
+  - first:
+      213: -5608522916667007715
+    second: _T_Inside-Town-A2_14_10
+  - first:
+      213: -3975121557812331004
+    second: _T_Inside-Town-A2_14_11
+  - first:
+      213: 1974623352148996324
+    second: _T_Inside-Town-A2_14_12
+  - first:
+      213: -1620747513135440800
+    second: _T_Inside-Town-A2_14_13
+  - first:
+      213: -3119598579602003385
+    second: _T_Inside-Town-A2_14_14
+  - first:
+      213: 997541832376147979
+    second: _T_Inside-Town-A2_14_15
+  - first:
+      213: -4078565606828991440
+    second: _T_Inside-Town-A2_14_16
+  - first:
+      213: 8011586522780830009
+    second: _T_Inside-Town-A2_14_17
+  - first:
+      213: 9110726653149885350
+    second: _T_Inside-Town-A2_14_18
+  - first:
+      213: 3936867609586251032
+    second: _T_Inside-Town-A2_14_19
+  - first:
+      213: -5720446914695110344
+    second: _T_Inside-Town-A2_14_20
+  - first:
+      213: 9026238270112671863
+    second: _T_Inside-Town-A2_14_21
+  - first:
+      213: 269182328832193746
+    second: _T_Inside-Town-A2_14_22
+  - first:
+      213: 3661495114634000254
+    second: _T_Inside-Town-A2_14_23
+  - first:
+      213: 1607578080792002569
+    second: _T_Inside-Town-A2_14_24
+  - first:
+      213: 8467443648549670973
+    second: _T_Inside-Town-A2_14_25
+  - first:
+      213: -5600461902560014814
+    second: _T_Inside-Town-A2_14_26
+  - first:
+      213: -947262913545799652
+    second: _T_Inside-Town-A2_14_27
+  - first:
+      213: 8666209285010499840
+    second: _T_Inside-Town-A2_14_28
+  - first:
+      213: 8268313319402611185
+    second: _T_Inside-Town-A2_14_29
+  - first:
+      213: -390858335962502398
+    second: _T_Inside-Town-A2_14_30
+  - first:
+      213: 5285104818191702963
+    second: _T_Inside-Town-A2_14_31
+  - first:
+      213: 1767500872753840532
+    second: _T_Inside-Town-A2_14_32
+  - first:
+      213: -6947095681922359258
+    second: _T_Inside-Town-A2_14_33
+  - first:
+      213: -102513169839589779
+    second: _T_Inside-Town-A2_14_34
+  - first:
+      213: 718037114748316547
+    second: _T_Inside-Town-A2_14_35
+  - first:
+      213: 4526885662304032268
+    second: _T_Inside-Town-A2_14_36
+  - first:
+      213: 8331343000085569793
+    second: _T_Inside-Town-A2_14_37
+  - first:
+      213: -3902557331171079654
+    second: _T_Inside-Town-A2_14_38
+  - first:
+      213: -8843683743232287984
+    second: _T_Inside-Town-A2_14_39
+  - first:
+      213: -7045808027097125869
+    second: _T_Inside-Town-A2_14_40
+  - first:
+      213: 8649274075054484844
+    second: _T_Inside-Town-A2_14_41
+  - first:
+      213: 5852340848842003344
+    second: _T_Inside-Town-A2_14_42
+  - first:
+      213: 6789359396834613651
+    second: _T_Inside-Town-A2_14_43
+  - first:
+      213: 9148481857536610949
+    second: _T_Inside-Town-A2_14_44
+  - first:
+      213: 8659509157891204591
+    second: _T_Inside-Town-A2_14_45
+  - first:
+      213: 6478987723549430779
+    second: _T_Inside-Town-A2_14_46
+  - first:
+      213: 2439808036375695077
+    second: _T_Inside-Town-A2_14_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5479f6c5a0e73c20800000000000000
+      internalID: 3186262264000377951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f7f224b2eeb3760800000000000000
+      internalID: 7438801079093919540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918d2404937e31750800000000000000
+      internalID: 6274612938934507545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1a80fbc52637000800000000000000
+      internalID: 32477772803252719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faa3a78222a1f200800000000000000
+      internalID: 212128926651362034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871cd71752169bde0800000000000000
+      internalID: -1316914602583408264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8b3cdff4589ae30800000000000000
+      internalID: 4515286680022005975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ead685ec53761c0800000000000000
+      internalID: -4510577341425144270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dcbb6f86dae15f0800000000000000
+      internalID: -783998618788180714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_09
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e00b2ac74d78820800000000000000
+      internalID: 2920536515143536252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ddc6d5f168a22b0800000000000000
+      internalID: -5608522916667007715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e3997110885d8c0800000000000000
+      internalID: -3975121557812331004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0380e0a75476b10800000000000000
+      internalID: 1974623352148996324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cd6f059b2f189e0800000000000000
+      internalID: -1620747513135440800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a6205ce95f4b4d0800000000000000
+      internalID: -3119598579602003385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b006f57e20bf7dd00800000000000000
+      internalID: 997541832376147979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c15d390360667c0800000000000000
+      internalID: -4078565606828991440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93988a9ce7fde2f60800000000000000
+      internalID: 8011586522780830009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3beaece9dcf6e70800000000000000
+      internalID: 9110726653149885350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81531258b3092a630800000000000000
+      internalID: 3936867609586251032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8316e1dd6d3ec90b0800000000000000
+      internalID: -5720446914695110344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7782a1432e3a34d70800000000000000
+      internalID: 9026238270112671863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4fad1e6e35cb300800000000000000
+      internalID: 269182328832193746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e777696486e30d230800000000000000
+      internalID: 3661495114634000254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900cf464fb34f4610800000000000000
+      internalID: 1607578080792002569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30d07bc227628570800000000000000
+      internalID: 8467443648549670973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e4dc772992742b0800000000000000
+      internalID: -5600461902560014814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1873312665aad2f0800000000000000
+      internalID: -947262913545799652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0092e3edd6f844870800000000000000
+      internalID: 8666209285010499840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1af961823feb270800000000000000
+      internalID: 8268313319402611185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b647f0a64639af0800000000000000
+      internalID: -390858335962502398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb950994d6785940800000000000000
+      internalID: 5285104818191702963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4918facddac678810800000000000000
+      internalID: 1767500872753840532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6202e5ad845f69f90800000000000000
+      internalID: -6947095681922359258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6679eea0dcc39ef0800000000000000
+      internalID: -102513169839589779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bae1893faf6f900800000000000000
+      internalID: 718037114748316547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06d070868ab2de30800000000000000
+      internalID: 4526885662304032268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101a9063150ee9370800000000000000
+      internalID: 8331343000085569793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a83ffa8c457d9c0800000000000000
+      internalID: -3902557331171079654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b1ebacd7ce44580800000000000000
+      internalID: -8843683743232287984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ca74dfde2483e90800000000000000
+      internalID: -7045808027097125869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d2e9802f4680870800000000000000
+      internalID: 8649274075054484844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0935cb7bef0b73150800000000000000
+      internalID: 5852340848842003344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39999cc5666a83e50800000000000000
+      internalID: 6789359396834613651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582539857cfe5fe70800000000000000
+      internalID: 9148481857536610949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5e855f2b1cc2870800000000000000
+      internalID: 8659509157891204591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3d746e10df9e950800000000000000
+      internalID: 6478987723549430779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_Inside-Town-A2_14_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee01508b70fbd120800000000000000
+      internalID: 2439808036375695077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _T_Inside-Town-A2_14_0: -7546715356413809635
+      _T_Inside-Town-A2_14_00: 3186262264000377951
+      _T_Inside-Town-A2_14_01: 7438801079093919540
+      _T_Inside-Town-A2_14_02: 6274612938934507545
+      _T_Inside-Town-A2_14_03: 32477772803252719
+      _T_Inside-Town-A2_14_04: 212128926651362034
+      _T_Inside-Town-A2_14_05: -1316914602583408264
+      _T_Inside-Town-A2_14_06: 4515286680022005975
+      _T_Inside-Town-A2_14_07: -4510577341425144270
+      _T_Inside-Town-A2_14_08: -783998618788180714
+      _T_Inside-Town-A2_14_09: 2920536515143536252
+      _T_Inside-Town-A2_14_10: -5608522916667007715
+      _T_Inside-Town-A2_14_11: -3975121557812331004
+      _T_Inside-Town-A2_14_12: 1974623352148996324
+      _T_Inside-Town-A2_14_13: -1620747513135440800
+      _T_Inside-Town-A2_14_14: -3119598579602003385
+      _T_Inside-Town-A2_14_15: 997541832376147979
+      _T_Inside-Town-A2_14_16: -4078565606828991440
+      _T_Inside-Town-A2_14_17: 8011586522780830009
+      _T_Inside-Town-A2_14_18: 9110726653149885350
+      _T_Inside-Town-A2_14_19: 3936867609586251032
+      _T_Inside-Town-A2_14_20: -5720446914695110344
+      _T_Inside-Town-A2_14_21: 9026238270112671863
+      _T_Inside-Town-A2_14_22: 269182328832193746
+      _T_Inside-Town-A2_14_23: 3661495114634000254
+      _T_Inside-Town-A2_14_24: 1607578080792002569
+      _T_Inside-Town-A2_14_25: 8467443648549670973
+      _T_Inside-Town-A2_14_26: -5600461902560014814
+      _T_Inside-Town-A2_14_27: -947262913545799652
+      _T_Inside-Town-A2_14_28: 8666209285010499840
+      _T_Inside-Town-A2_14_29: 8268313319402611185
+      _T_Inside-Town-A2_14_30: -390858335962502398
+      _T_Inside-Town-A2_14_31: 5285104818191702963
+      _T_Inside-Town-A2_14_32: 1767500872753840532
+      _T_Inside-Town-A2_14_33: -6947095681922359258
+      _T_Inside-Town-A2_14_34: -102513169839589779
+      _T_Inside-Town-A2_14_35: 718037114748316547
+      _T_Inside-Town-A2_14_36: 4526885662304032268
+      _T_Inside-Town-A2_14_37: 8331343000085569793
+      _T_Inside-Town-A2_14_38: -3902557331171079654
+      _T_Inside-Town-A2_14_39: -8843683743232287984
+      _T_Inside-Town-A2_14_40: -7045808027097125869
+      _T_Inside-Town-A2_14_41: 8649274075054484844
+      _T_Inside-Town-A2_14_42: 5852340848842003344
+      _T_Inside-Town-A2_14_43: 6789359396834613651
+      _T_Inside-Town-A2_14_44: 9148481857536610949
+      _T_Inside-Town-A2_14_45: 8659509157891204591
+      _T_Inside-Town-A2_14_46: 6478987723549430779
+      _T_Inside-Town-A2_14_47: 2439808036375695077
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

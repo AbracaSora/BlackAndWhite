@@ -6,7 +6,8 @@ public class BedShelf : Interactable
     protected override void OnInteract()
     {
         int playthroughCount = PlayerPrefs.GetInt("Playthrough", 1);
-        if (playthroughCount == 1)
+        bool writeDiary = PlayerPrefs.GetInt("WriteDiary", 0) == 1;
+        if (playthroughCount == 1 && !writeDiary)
         {
             if (interactCount == 0)
             {
@@ -25,37 +26,32 @@ public class BedShelf : Interactable
                 });
                 interactCount++;
             }
-            else
-            {
-                UIManager.Instance.ShowDialogueWithOptions(new string[]
-                {
-                    "取走花朵吗？",
-                }, new string[]
-                {
-                    "取走",
-                    "不取",
-                },ResolveDialogueOption);
-            }
-        }
-    }
-    
-    private void ResolveDialogueOption(int optionIndex)
-    {
-        if (optionIndex == 0) // 取走
+        } else if (playthroughCount == 1 && writeDiary)
         {
-            UIManager.Instance.ShowDialogue(new string[]
+            UIManager.Instance.ShowDialogueWithOptions(new string[]
             {
-                "你小心翼翼地取下花朵，",
-                "放进了口袋。",
-            });
-            // 这里可以添加将花朵添加到玩家物品栏的逻辑
-        }
-        else // 不取
-        {
-            UIManager.Instance.ShowDialogue(new string[]
+                "要取走日记本吗？",
+            }, new string[]
             {
-                "你决定不取走花朵，",
-                "它静静地摆在那里。",
+                "取走",
+                "放下",
+            }, (optionIndex) =>
+            {
+                if (optionIndex == 0)
+                {
+                    UIManager.Instance.ShowDialogue(new string[]
+                    {
+                        "你取走了日记本。",
+                    });
+                    PlayerPrefs.SetInt("DiaryTaken", 1);
+                }
+                else
+                {
+                    UIManager.Instance.ShowDialogue(new string[]
+                    {
+                        "你决定把日记本留在原处。",
+                    });
+                }
             });
         }
     }

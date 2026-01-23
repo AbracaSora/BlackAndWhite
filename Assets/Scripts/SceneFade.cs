@@ -49,6 +49,12 @@ public class SceneFade : MonoBehaviour
         }
         fadeImage.color = new Color(startColor.r, startColor.g, startColor.b, 1f);
     }
+    
+    // 前面两个函数的非协程调用接口
+    public void TriggerFadeIn()
+    {
+        StartCoroutine(FadeIn());
+    }
 
     // 在场景切换时调用
     public void TriggerFadeOut()

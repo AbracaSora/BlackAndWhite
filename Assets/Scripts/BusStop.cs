@@ -4,6 +4,9 @@ public class BusStop : Interactable
 {
     protected DoorTrigger _doorTrigger;
     
+    [TextArea(3,10)]
+    public string promptText;
+    
     void Awake()
     {
         _doorTrigger = GetComponent<DoorTrigger>();
@@ -14,7 +17,7 @@ public class BusStop : Interactable
         {
             UIManager.Instance.ShowDialogueWithOptions(new []
             {
-                "是否坐公交车去学校？",
+                promptText,
             }, new []
             {
                 "是",

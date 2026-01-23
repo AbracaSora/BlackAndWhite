@@ -39,7 +39,7 @@ public class OptionPanelController : MonoBehaviour
         {
             MoveSelection(1);
         }
-        else if (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Space))
+        else if (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Z))
         {
             ConfirmSelection();
         }

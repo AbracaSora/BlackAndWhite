@@ -47,6 +47,12 @@ public class PlayerInteract : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        if (other.GetComponent<Mine>() != null)
+        {
+            Mine mine = other.GetComponent<Mine>(); 
+            mine.Interact();
+            return;
+        }
         Interactable interactable = other.GetComponent<Interactable>();
         if (interactable != null)
         {

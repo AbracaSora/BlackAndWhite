@@ -7,7 +7,7 @@ public class UIManager : MonoBehaviour
     
     public DialogueController dialogue;
 
-    public bool IsDialogueOpen => dialogue.gameObject.activeSelf;
+    public bool IsDialogueOpen  { get; private set; }
 
     private void Awake()
     {

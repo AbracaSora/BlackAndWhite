@@ -20,6 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SchoolGate.unity
     guid: fae7212522c86444585578becda561c2
+  - enabled: 1
+    path: Assets/Scenes/Classroom101.unity
+    guid: d6e62be831b512240986aba75ecc8319
+  - enabled: 1
+    path: Assets/Scenes/School1F.unity
+    guid: b357a4212993c0d4b843835ed6312a06
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
