@@ -1,0 +1,1405 @@
+fileFormatVersion: 2
+guid: fd99cf63e2db4a24a851de41e2f0d8a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 190675246959931385
+    second: _W_BrightForest-A1_2_2_0
+  - first:
+      213: 4128953107184044426
+    second: _W_BrightForest-A1_2_2_1
+  - first:
+      213: -822743270659757120
+    second: _W_BrightForest-A1_2_2_2
+  - first:
+      213: 2284444268240504195
+    second: _W_BrightForest-A1_2_2_3
+  - first:
+      213: 3220880528933712310
+    second: _W_BrightForest-A1_2_2_4
+  - first:
+      213: -9794198140889769
+    second: _W_BrightForest-A1_2_2_5
+  - first:
+      213: -3762324297316083132
+    second: _W_BrightForest-A1_2_2_6
+  - first:
+      213: 4240939520611927039
+    second: _W_BrightForest-A1_2_2_7
+  - first:
+      213: 7228043736636240989
+    second: _W_BrightForest-A1_2_2_8
+  - first:
+      213: 6023108651475711501
+    second: _W_BrightForest-A1_2_2_9
+  - first:
+      213: 7099181109270474843
+    second: _W_BrightForest-A1_2_2_10
+  - first:
+      213: -6474465054272332653
+    second: _W_BrightForest-A1_2_2_11
+  - first:
+      213: 8567108957314881941
+    second: _W_BrightForest-A1_2_2_00
+  - first:
+      213: -5254077625074755300
+    second: _W_BrightForest-A1_2_2_01
+  - first:
+      213: -7622519231483563069
+    second: _W_BrightForest-A1_2_2_02
+  - first:
+      213: -667149834030845199
+    second: _W_BrightForest-A1_2_2_03
+  - first:
+      213: 1948688531759802104
+    second: _W_BrightForest-A1_2_2_04
+  - first:
+      213: 6901257186931022626
+    second: _W_BrightForest-A1_2_2_05
+  - first:
+      213: 7209247969975113263
+    second: _W_BrightForest-A1_2_2_06
+  - first:
+      213: -7826694545347931587
+    second: _W_BrightForest-A1_2_2_07
+  - first:
+      213: -6011197639544069114
+    second: _W_BrightForest-A1_2_2_08
+  - first:
+      213: -1332790043810733409
+    second: _W_BrightForest-A1_2_2_09
+  - first:
+      213: 605855098450403322
+    second: _W_BrightForest-A1_2_2_12
+  - first:
+      213: 1403429569190845841
+    second: _W_BrightForest-A1_2_2_13
+  - first:
+      213: 5462796657430889452
+    second: _W_BrightForest-A1_2_2_14
+  - first:
+      213: 8952844950982561778
+    second: _W_BrightForest-A1_2_2_15
+  - first:
+      213: -2196734529290522088
+    second: _W_BrightForest-A1_2_2_16
+  - first:
+      213: -4387314357463153570
+    second: _W_BrightForest-A1_2_2_17
+  - first:
+      213: -1743526431664556704
+    second: _W_BrightForest-A1_2_2_18
+  - first:
+      213: 8285497464550121172
+    second: _W_BrightForest-A1_2_2_19
+  - first:
+      213: 5014510721949468194
+    second: _W_BrightForest-A1_2_2_20
+  - first:
+      213: 846991610920937527
+    second: _W_BrightForest-A1_2_2_21
+  - first:
+      213: 1537619037274711172
+    second: _W_BrightForest-A1_2_2_22
+  - first:
+      213: 174878741489432745
+    second: _W_BrightForest-A1_2_2_23
+  - first:
+      213: -4782002718707818489
+    second: _W_BrightForest-A1_2_2_24
+  - first:
+      213: -1507750484536420043
+    second: _W_BrightForest-A1_2_2_25
+  - first:
+      213: 7248075260856367552
+    second: _W_BrightForest-A1_2_2_26
+  - first:
+      213: -7871198784730951507
+    second: _W_BrightForest-A1_2_2_27
+  - first:
+      213: -7459802092384354132
+    second: _W_BrightForest-A1_2_2_28
+  - first:
+      213: 1148360591959355302
+    second: _W_BrightForest-A1_2_2_29
+  - first:
+      213: -6025311565284793216
+    second: _W_BrightForest-A1_2_2_30
+  - first:
+      213: 8759565282957424703
+    second: _W_BrightForest-A1_2_2_31
+  - first:
+      213: -1769237806314870335
+    second: _W_BrightForest-A1_2_2_32
+  - first:
+      213: -5788253236890840527
+    second: _W_BrightForest-A1_2_2_33
+  - first:
+      213: 7029841531617630713
+    second: _W_BrightForest-A1_2_2_34
+  - first:
+      213: -4444797046281417035
+    second: _W_BrightForest-A1_2_2_35
+  - first:
+      213: -1495117846997999634
+    second: _W_BrightForest-A1_2_2_36
+  - first:
+      213: 4246941180452125525
+    second: _W_BrightForest-A1_2_2_37
+  - first:
+      213: -6034943349511921683
+    second: _W_BrightForest-A1_2_2_38
+  - first:
+      213: -685391944818621091
+    second: _W_BrightForest-A1_2_2_39
+  - first:
+      213: -7947764980398052108
+    second: _W_BrightForest-A1_2_2_40
+  - first:
+      213: -6550808709507752006
+    second: _W_BrightForest-A1_2_2_41
+  - first:
+      213: 4084164729454813463
+    second: _W_BrightForest-A1_2_2_42
+  - first:
+      213: 2988941702952479821
+    second: _W_BrightForest-A1_2_2_43
+  - first:
+      213: 6073157938686104284
+    second: _W_BrightForest-A1_2_2_44
+  - first:
+      213: 7602497186356174476
+    second: _W_BrightForest-A1_2_2_45
+  - first:
+      213: -6559081204156398173
+    second: _W_BrightForest-A1_2_2_46
+  - first:
+      213: 812221015909266364
+    second: _W_BrightForest-A1_2_2_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59912d8c43c74e670800000000000000
+      internalID: 8567108957314881941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19571fbc34c517b0800000000000000
+      internalID: -5254077625074755300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b6d1152f573690800000000000000
+      internalID: -7622519231483563069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f271aab2cecdb6f0800000000000000
+      internalID: -667149834030845199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ab6125e12b0b10800000000000000
+      internalID: 1948688531759802104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b92aad8d036cf50800000000000000
+      internalID: 6901257186931022626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26921c15d46c0460800000000000000
+      internalID: 7209247969975113263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d329c0357cef16390800000000000000
+      internalID: -7826694545347931587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6042f44789fe39ca0800000000000000
+      internalID: -6011197639544069114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_09
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92eb7e348af08de0800000000000000
+      internalID: -1332790043810733409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50fa361b9b558260800000000000000
+      internalID: 7099181109270474843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cda6916541626a0800000000000000
+      internalID: -6474465054272332653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affde78800e686800800000000000000
+      internalID: 605855098450403322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d56eae1cbf97310800000000000000
+      internalID: 1403429569190845841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce30c56ed90cfcb40800000000000000
+      internalID: 5462796657430889452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff07787c05ee3c70800000000000000
+      internalID: 8952844950982561778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812bdcb9591a381e0800000000000000
+      internalID: -2196734529290522088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54007d36d02d13c0800000000000000
+      internalID: -4387314357463153570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0653120b2ffbdc7e0800000000000000
+      internalID: -1743526431664556704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ded8e9ab000cf270800000000000000
+      internalID: 8285497464550121172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2268f200fee179540800000000000000
+      internalID: 5014510721949468194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738ada0f16e11cb00800000000000000
+      internalID: 846991610920937527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48423a42e58b65510800000000000000
+      internalID: 1537619037274711172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8be31f94b4d6200800000000000000
+      internalID: 174878741489432745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700e77c0dd9e2adb0800000000000000
+      internalID: -4782002718707818489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53998473ce4631be0800000000000000
+      internalID: -1507750484536420043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9f3ac3c06569460800000000000000
+      internalID: 7248075260856367552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da010af9862e3c290800000000000000
+      internalID: -7871198784730951507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca007bc4585797890800000000000000
+      internalID: -7459802092384354132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af6bc5cfdbcfef00800000000000000
+      internalID: 1148360591959355302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a52a0e0bc16ca0800000000000000
+      internalID: -6025311565284793216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f387585f63a309970800000000000000
+      internalID: 8759565282957424703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c92967c6976277e0800000000000000
+      internalID: -1769237806314870335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132dd19395efbafa0800000000000000
+      internalID: -5788253236890840527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f95b5790a30f8160800000000000000
+      internalID: 7029841531617630713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bec0bdc2a8e052c0800000000000000
+      internalID: -4444797046281417035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef56585d36404be0800000000000000
+      internalID: -1495117846997999634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bb3da908a20fa30800000000000000
+      internalID: 4246941180452125525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def5cb48ff29f3ca0800000000000000
+      internalID: -6034943349511921683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d550c2558affc76f0800000000000000
+      internalID: -685391944818621091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fca5110cddd3b190800000000000000
+      internalID: -7947764980398052108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf5146bf2ad615a0800000000000000
+      internalID: -6550808709507752006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711655fbe2edda830800000000000000
+      internalID: 4084164729454813463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c65da84aada7920800000000000000
+      internalID: 2988941702952479821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd29a30e7f0384450800000000000000
+      internalID: 6073157938686104284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e9aa649ee718960800000000000000
+      internalID: 7602497186356174476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a50155756679f4a0800000000000000
+      internalID: -6559081204156398173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _W_BrightForest-A1_2_2_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3f06ce5b6954b00800000000000000
+      internalID: 812221015909266364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _W_BrightForest-A1_2_2_0: 190675246959931385
+      _W_BrightForest-A1_2_2_00: 8567108957314881941
+      _W_BrightForest-A1_2_2_01: -5254077625074755300
+      _W_BrightForest-A1_2_2_02: -7622519231483563069
+      _W_BrightForest-A1_2_2_03: -667149834030845199
+      _W_BrightForest-A1_2_2_04: 1948688531759802104
+      _W_BrightForest-A1_2_2_05: 6901257186931022626
+      _W_BrightForest-A1_2_2_06: 7209247969975113263
+      _W_BrightForest-A1_2_2_07: -7826694545347931587
+      _W_BrightForest-A1_2_2_08: -6011197639544069114
+      _W_BrightForest-A1_2_2_09: -1332790043810733409
+      _W_BrightForest-A1_2_2_1: 4128953107184044426
+      _W_BrightForest-A1_2_2_10: 7099181109270474843
+      _W_BrightForest-A1_2_2_11: -6474465054272332653
+      _W_BrightForest-A1_2_2_12: 605855098450403322
+      _W_BrightForest-A1_2_2_13: 1403429569190845841
+      _W_BrightForest-A1_2_2_14: 5462796657430889452
+      _W_BrightForest-A1_2_2_15: 8952844950982561778
+      _W_BrightForest-A1_2_2_16: -2196734529290522088
+      _W_BrightForest-A1_2_2_17: -4387314357463153570
+      _W_BrightForest-A1_2_2_18: -1743526431664556704
+      _W_BrightForest-A1_2_2_19: 8285497464550121172
+      _W_BrightForest-A1_2_2_2: -822743270659757120
+      _W_BrightForest-A1_2_2_20: 5014510721949468194
+      _W_BrightForest-A1_2_2_21: 846991610920937527
+      _W_BrightForest-A1_2_2_22: 1537619037274711172
+      _W_BrightForest-A1_2_2_23: 174878741489432745
+      _W_BrightForest-A1_2_2_24: -4782002718707818489
+      _W_BrightForest-A1_2_2_25: -1507750484536420043
+      _W_BrightForest-A1_2_2_26: 7248075260856367552
+      _W_BrightForest-A1_2_2_27: -7871198784730951507
+      _W_BrightForest-A1_2_2_28: -7459802092384354132
+      _W_BrightForest-A1_2_2_29: 1148360591959355302
+      _W_BrightForest-A1_2_2_3: 2284444268240504195
+      _W_BrightForest-A1_2_2_30: -6025311565284793216
+      _W_BrightForest-A1_2_2_31: 8759565282957424703
+      _W_BrightForest-A1_2_2_32: -1769237806314870335
+      _W_BrightForest-A1_2_2_33: -5788253236890840527
+      _W_BrightForest-A1_2_2_34: 7029841531617630713
+      _W_BrightForest-A1_2_2_35: -4444797046281417035
+      _W_BrightForest-A1_2_2_36: -1495117846997999634
+      _W_BrightForest-A1_2_2_37: 4246941180452125525
+      _W_BrightForest-A1_2_2_38: -6034943349511921683
+      _W_BrightForest-A1_2_2_39: -685391944818621091
+      _W_BrightForest-A1_2_2_4: 3220880528933712310
+      _W_BrightForest-A1_2_2_40: -7947764980398052108
+      _W_BrightForest-A1_2_2_41: -6550808709507752006
+      _W_BrightForest-A1_2_2_42: 4084164729454813463
+      _W_BrightForest-A1_2_2_43: 2988941702952479821
+      _W_BrightForest-A1_2_2_44: 6073157938686104284
+      _W_BrightForest-A1_2_2_45: 7602497186356174476
+      _W_BrightForest-A1_2_2_46: -6559081204156398173
+      _W_BrightForest-A1_2_2_47: 812221015909266364
+      _W_BrightForest-A1_2_2_5: -9794198140889769
+      _W_BrightForest-A1_2_2_6: -3762324297316083132
+      _W_BrightForest-A1_2_2_7: 4240939520611927039
+      _W_BrightForest-A1_2_2_8: 7228043736636240989
+      _W_BrightForest-A1_2_2_9: 6023108651475711501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
