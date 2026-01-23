@@ -136,7 +136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d17114e01f1ee654a88e2e978b2ea72f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMove
-  speed: 10
+  speed: 8
   faceAt: 1
 --- !u!95 &8049568868987424459
 Animator:
@@ -221,3 +221,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fe4bc6f39165ce4ca50a20378a1f919, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::YSort
+  SortPoint: {fileID: 0}

@@ -6,6 +6,8 @@ public abstract class Interactable : MonoBehaviour
     [SerializeField] protected bool canInteract = true;
     [SerializeField] protected bool interactOnce = false;
     [SerializeField] protected int interactCount = 0;
+    [SerializeField] protected Transform interactionPoint;
+    [SerializeField] protected bool faceless = false;
  
     private bool hasInteracted = false;
     
@@ -42,4 +44,14 @@ public abstract class Interactable : MonoBehaviour
     /// 具体交互逻辑（子类必须实现）
     /// </summary>
     protected abstract void OnInteract();
+    
+    public Transform GetInteractionPoint()
+    {
+        return interactionPoint != null ? interactionPoint : this.transform;
+    }
+    
+    public bool IsFaceless()
+    {
+        return faceless;
+    }
 }

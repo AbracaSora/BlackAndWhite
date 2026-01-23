@@ -1,0 +1,1405 @@
+fileFormatVersion: 2
+guid: 1841a39de9279ca4a90563bf1ff0e9fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9014592358046720867
+    second: _T_CastleTownBF-A2_21_0
+  - first:
+      213: -4748464361657622683
+    second: _T_CastleTownBF-A2_21_1
+  - first:
+      213: -8560526300339756611
+    second: _T_CastleTownBF-A2_21_2
+  - first:
+      213: -9221833276289500720
+    second: _T_CastleTownBF-A2_21_3
+  - first:
+      213: 3007206516361694792
+    second: _T_CastleTownBF-A2_21_4
+  - first:
+      213: 7507669017474629776
+    second: _T_CastleTownBF-A2_21_5
+  - first:
+      213: 1190324528743500204
+    second: _T_CastleTownBF-A2_21_6
+  - first:
+      213: -1526473604955968441
+    second: _T_CastleTownBF-A2_21_7
+  - first:
+      213: -4283443619747089786
+    second: _T_CastleTownBF-A2_21_8
+  - first:
+      213: 3759989991094522754
+    second: _T_CastleTownBF-A2_21_9
+  - first:
+      213: 2640135404385289019
+    second: _T_CastleTownBF-A2_21_10
+  - first:
+      213: -4738786209979210865
+    second: _T_CastleTownBF-A2_21_11
+  - first:
+      213: -166125632669438114
+    second: _T_CastleTownBF-A2_21_00
+  - first:
+      213: -4224565416980250167
+    second: _T_CastleTownBF-A2_21_01
+  - first:
+      213: -539420089144560709
+    second: _T_CastleTownBF-A2_21_02
+  - first:
+      213: -539484172591392044
+    second: _T_CastleTownBF-A2_21_03
+  - first:
+      213: 3237369154711392486
+    second: _T_CastleTownBF-A2_21_04
+  - first:
+      213: -9123884791686320301
+    second: _T_CastleTownBF-A2_21_05
+  - first:
+      213: -2334660432956141835
+    second: _T_CastleTownBF-A2_21_06
+  - first:
+      213: -622741176410997951
+    second: _T_CastleTownBF-A2_21_07
+  - first:
+      213: -7187389324480658458
+    second: _T_CastleTownBF-A2_21_08
+  - first:
+      213: 6769298509765063358
+    second: _T_CastleTownBF-A2_21_09
+  - first:
+      213: -6926274740362892165
+    second: _T_CastleTownBF-A2_21_12
+  - first:
+      213: 2830930201184007424
+    second: _T_CastleTownBF-A2_21_13
+  - first:
+      213: -3176213246906769394
+    second: _T_CastleTownBF-A2_21_14
+  - first:
+      213: 4710518357934495179
+    second: _T_CastleTownBF-A2_21_15
+  - first:
+      213: 763749278069482264
+    second: _T_CastleTownBF-A2_21_16
+  - first:
+      213: -7732875259203835335
+    second: _T_CastleTownBF-A2_21_17
+  - first:
+      213: -6022720206293684760
+    second: _T_CastleTownBF-A2_21_18
+  - first:
+      213: 9014858826461876964
+    second: _T_CastleTownBF-A2_21_19
+  - first:
+      213: 6280486723151079784
+    second: _T_CastleTownBF-A2_21_20
+  - first:
+      213: -128793297126249713
+    second: _T_CastleTownBF-A2_21_21
+  - first:
+      213: -2350513817712630616
+    second: _T_CastleTownBF-A2_21_22
+  - first:
+      213: 9144009697961342570
+    second: _T_CastleTownBF-A2_21_23
+  - first:
+      213: -7773910444238678386
+    second: _T_CastleTownBF-A2_21_24
+  - first:
+      213: 8219885689827314938
+    second: _T_CastleTownBF-A2_21_25
+  - first:
+      213: -7780243656074832183
+    second: _T_CastleTownBF-A2_21_26
+  - first:
+      213: 2539786247341834498
+    second: _T_CastleTownBF-A2_21_27
+  - first:
+      213: 2362577603690357410
+    second: _T_CastleTownBF-A2_21_28
+  - first:
+      213: 340749636862093143
+    second: _T_CastleTownBF-A2_21_29
+  - first:
+      213: -1308817301500941239
+    second: _T_CastleTownBF-A2_21_30
+  - first:
+      213: -2021004474484760608
+    second: _T_CastleTownBF-A2_21_31
+  - first:
+      213: 5450333052188578100
+    second: _T_CastleTownBF-A2_21_32
+  - first:
+      213: 1069314836583329150
+    second: _T_CastleTownBF-A2_21_33
+  - first:
+      213: -794950018238978525
+    second: _T_CastleTownBF-A2_21_34
+  - first:
+      213: -3043218372841931474
+    second: _T_CastleTownBF-A2_21_35
+  - first:
+      213: 1237443487693996770
+    second: _T_CastleTownBF-A2_21_36
+  - first:
+      213: 9006158262578602838
+    second: _T_CastleTownBF-A2_21_37
+  - first:
+      213: 4541654741910854298
+    second: _T_CastleTownBF-A2_21_38
+  - first:
+      213: 5083749067332206238
+    second: _T_CastleTownBF-A2_21_39
+  - first:
+      213: 883208357498583397
+    second: _T_CastleTownBF-A2_21_40
+  - first:
+      213: 3899893446104230062
+    second: _T_CastleTownBF-A2_21_41
+  - first:
+      213: 3098437459684026982
+    second: _T_CastleTownBF-A2_21_42
+  - first:
+      213: 843854717023194144
+    second: _T_CastleTownBF-A2_21_43
+  - first:
+      213: 2256229215498440183
+    second: _T_CastleTownBF-A2_21_44
+  - first:
+      213: -3973071904960154031
+    second: _T_CastleTownBF-A2_21_45
+  - first:
+      213: 8651338864957156499
+    second: _T_CastleTownBF-A2_21_46
+  - first:
+      213: 7239744928109562409
+    second: _T_CastleTownBF-A2_21_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fa6a40e9dc1bdf0800000000000000
+      internalID: -166125632669438114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c10e7ec2245f55c0800000000000000
+      internalID: -4224565416980250167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb334d179489388f0800000000000000
+      internalID: -539420089144560709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da9ebad00e5388f0800000000000000
+      internalID: -539484172591392044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0116908127dec20800000000000000
+      internalID: 3237369154711392486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fa2f35f13716180800000000000000
+      internalID: -9123884791686320301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe4d7ea4be999fd0800000000000000
+      internalID: -2334660432956141835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b730113349b57f0800000000000000
+      internalID: -622741176410997951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e345e36d73414c90800000000000000
+      internalID: -7187389324480658458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_09
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2b02d112161fd50800000000000000
+      internalID: 6769298509765063358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3341598925a3a420800000000000000
+      internalID: 2640135404385289019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f836ba79c037c3eb0800000000000000
+      internalID: -4738786209979210865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca8e312dde0ef90800000000000000
+      internalID: -6926274740362892165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0057f71e40c794720800000000000000
+      internalID: 2830930201184007424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e006b3751e2dbe3d0800000000000000
+      internalID: -3176213246906769394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc554a83d7f1f5140800000000000000
+      internalID: 4710518357934495179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813eac00ce1699a00800000000000000
+      internalID: 763749278069482264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aafba1cee4fa490800000000000000
+      internalID: -7732875259203835335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed2c42d1effa6ca0800000000000000
+      internalID: -6022720206293684760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e21e8307563b1d70800000000000000
+      internalID: 9014858826461876964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8692af53665c82750800000000000000
+      internalID: 6280486723151079784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ba65bbd2f663ef0800000000000000
+      internalID: -128793297126249713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a46797e22c416fd0800000000000000
+      internalID: -2350513817712630616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6676bd8f5c06ee70800000000000000
+      internalID: 9144009697961342570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86547f83a58d1490800000000000000
+      internalID: -7773910444238678386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc497ceb76e21270800000000000000
+      internalID: 8219885689827314938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c65ca5cd95070490800000000000000
+      internalID: -7780243656074832183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2018b36b2222f3320800000000000000
+      internalID: 2539786247341834498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2e14620df89c020800000000000000
+      internalID: 2362577603690357410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75722864df59ab400800000000000000
+      internalID: 340749636862093143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ca624499526dde0800000000000000
+      internalID: -1308817301500941239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef5cd06323f3f3e0800000000000000
+      internalID: -2021004474484760608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431554ba80973ab40800000000000000
+      internalID: 5450333052188578100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7daa9bad28f6de00800000000000000
+      internalID: 1069314836583329150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326eca49b25c7f4f0800000000000000
+      internalID: -794950018238978525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d70d8730154c5d0800000000000000
+      internalID: -3043218372841931474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e20f99bb484c2110800000000000000
+      internalID: 1237443487693996770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65362ff193d4cfc70800000000000000
+      internalID: 9006158262578602838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a9010dce2370f30800000000000000
+      internalID: 4541654741910854298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e3f8587da1d8640800000000000000
+      internalID: 5083749067332206238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569fb5b5259c14c00800000000000000
+      internalID: 883208357498583397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8aaec3d643f1630800000000000000
+      internalID: 3899893446104230062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aea3f047cdffa20800000000000000
+      internalID: 3098437459684026982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c843ae469f5bb00800000000000000
+      internalID: 843854717023194144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd84a9748cbf4f10800000000000000
+      internalID: 2256229215498440183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156f3c51720dcd8c0800000000000000
+      internalID: -3973071904960154031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c6d456cdabf0870800000000000000
+      internalID: 8651338864957156499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _T_CastleTownBF-A2_21_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a086087adb87460800000000000000
+      internalID: 7239744928109562409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _T_CastleTownBF-A2_21_0: 9014592358046720867
+      _T_CastleTownBF-A2_21_00: -166125632669438114
+      _T_CastleTownBF-A2_21_01: -4224565416980250167
+      _T_CastleTownBF-A2_21_02: -539420089144560709
+      _T_CastleTownBF-A2_21_03: -539484172591392044
+      _T_CastleTownBF-A2_21_04: 3237369154711392486
+      _T_CastleTownBF-A2_21_05: -9123884791686320301
+      _T_CastleTownBF-A2_21_06: -2334660432956141835
+      _T_CastleTownBF-A2_21_07: -622741176410997951
+      _T_CastleTownBF-A2_21_08: -7187389324480658458
+      _T_CastleTownBF-A2_21_09: 6769298509765063358
+      _T_CastleTownBF-A2_21_1: -4748464361657622683
+      _T_CastleTownBF-A2_21_10: 2640135404385289019
+      _T_CastleTownBF-A2_21_11: -4738786209979210865
+      _T_CastleTownBF-A2_21_12: -6926274740362892165
+      _T_CastleTownBF-A2_21_13: 2830930201184007424
+      _T_CastleTownBF-A2_21_14: -3176213246906769394
+      _T_CastleTownBF-A2_21_15: 4710518357934495179
+      _T_CastleTownBF-A2_21_16: 763749278069482264
+      _T_CastleTownBF-A2_21_17: -7732875259203835335
+      _T_CastleTownBF-A2_21_18: -6022720206293684760
+      _T_CastleTownBF-A2_21_19: 9014858826461876964
+      _T_CastleTownBF-A2_21_2: -8560526300339756611
+      _T_CastleTownBF-A2_21_20: 6280486723151079784
+      _T_CastleTownBF-A2_21_21: -128793297126249713
+      _T_CastleTownBF-A2_21_22: -2350513817712630616
+      _T_CastleTownBF-A2_21_23: 9144009697961342570
+      _T_CastleTownBF-A2_21_24: -7773910444238678386
+      _T_CastleTownBF-A2_21_25: 8219885689827314938
+      _T_CastleTownBF-A2_21_26: -7780243656074832183
+      _T_CastleTownBF-A2_21_27: 2539786247341834498
+      _T_CastleTownBF-A2_21_28: 2362577603690357410
+      _T_CastleTownBF-A2_21_29: 340749636862093143
+      _T_CastleTownBF-A2_21_3: -9221833276289500720
+      _T_CastleTownBF-A2_21_30: -1308817301500941239
+      _T_CastleTownBF-A2_21_31: -2021004474484760608
+      _T_CastleTownBF-A2_21_32: 5450333052188578100
+      _T_CastleTownBF-A2_21_33: 1069314836583329150
+      _T_CastleTownBF-A2_21_34: -794950018238978525
+      _T_CastleTownBF-A2_21_35: -3043218372841931474
+      _T_CastleTownBF-A2_21_36: 1237443487693996770
+      _T_CastleTownBF-A2_21_37: 9006158262578602838
+      _T_CastleTownBF-A2_21_38: 4541654741910854298
+      _T_CastleTownBF-A2_21_39: 5083749067332206238
+      _T_CastleTownBF-A2_21_4: 3007206516361694792
+      _T_CastleTownBF-A2_21_40: 883208357498583397
+      _T_CastleTownBF-A2_21_41: 3899893446104230062
+      _T_CastleTownBF-A2_21_42: 3098437459684026982
+      _T_CastleTownBF-A2_21_43: 843854717023194144
+      _T_CastleTownBF-A2_21_44: 2256229215498440183
+      _T_CastleTownBF-A2_21_45: -3973071904960154031
+      _T_CastleTownBF-A2_21_46: 8651338864957156499
+      _T_CastleTownBF-A2_21_47: 7239744928109562409
+      _T_CastleTownBF-A2_21_5: 7507669017474629776
+      _T_CastleTownBF-A2_21_6: 1190324528743500204
+      _T_CastleTownBF-A2_21_7: -1526473604955968441
+      _T_CastleTownBF-A2_21_8: -4283443619747089786
+      _T_CastleTownBF-A2_21_9: 3759989991094522754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

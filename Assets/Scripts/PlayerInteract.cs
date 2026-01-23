@@ -20,8 +20,12 @@ public class PlayerInteract : MonoBehaviour
 
     float FaceAt(Interactable interactable)
     {
+        if (interactable.IsFaceless())
+        {
+            return 1f;
+        }
         Vector2 playerFacing = PlayerMove.Instance.FacingVector();
-        Vector2 toTarget = interactable.transform.position - transform.position;
+        Vector2 toTarget = interactable.GetInteractionPoint().position - transform.position;
         toTarget.Normalize();
         float dot = Vector2.Dot(playerFacing, toTarget.normalized);
         return dot;
@@ -32,7 +36,7 @@ public class PlayerInteract : MonoBehaviour
         var interactable = interactables
             .OrderBy(obj => obj.priority)  // 按优先级排序，优先级小的排在前面
             .ThenByDescending(FaceAt)  // 按面向角度排序，面向的排在前面
-            .ThenBy(obj => Vector3.Distance(transform.position, obj.transform.position))  // 如果角度相同，则按距离排序
+            .ThenBy(obj => Vector3.Distance(transform.position, obj.GetInteractionPoint().position))  // 如果角度相同，则按距离排序
             .FirstOrDefault();  // 获取优先级最高的物体
         if (interactable == null || FaceAt(interactable) < 0.1f)
         {

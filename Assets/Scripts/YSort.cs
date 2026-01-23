@@ -2,15 +2,26 @@ using UnityEngine;
 
 public class YSort : MonoBehaviour
 {
-    private SpriteRenderer sr;
+    private Renderer sr;
+    public Transform SortPoint;
 
     private void Awake()
     {
-        sr = GetComponent<SpriteRenderer>();
+        sr = GetComponent<Renderer>();
     }
 
     private void LateUpdate()
     {
-        sr.sortingOrder = Mathf.RoundToInt(-transform.position.y * 100);
+        // float yPos = sr.bounds.min.y;
+        if (SortPoint != null)
+        {
+            float yPos = -SortPoint.position.y;
+            sr.sortingOrder = Mathf.RoundToInt(yPos * 100);
+        }
+        else
+        {
+            float yPos = -transform.position.y;
+            sr.sortingOrder = Mathf.RoundToInt(yPos * 100);
+        }
     }
 }
